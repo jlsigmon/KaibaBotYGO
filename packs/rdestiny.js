@@ -1,0 +1,14 @@
+module.exports = {
+    name: 'rdestiny',
+    description: "The test pack",
+    cards: ["B.E.S Big Core","Divine Wrath","Fuh-Rin-Ka-Zan","Machine Duplication","Monster Reincarnation","Mystic Swordsman LV6","The Creator","Thestalos the Firestorm Monarch","Back to Square One","Ballista of Rampart Smashing","Chain Burst","Dark Blade the Dragon Knight","Fusilier Dragon, the Dual-Mode Beast","Gaia Soul the Combustible Collective","Harpies' Hunting Ground","Homunculus the Alchemic Being","Mirage Dragon","Mokey Mokey King","Pitch-Black Warwolf","Silent Swordsman LV3","The Creator Incarnate","Astral Barrier","Covering Fire","Dekoichi the Battlechanted Locomotive","Element Magician","Element Saurus","Harpie Lady 1","Harpie Lady 2","Harpie Lady 3","Invasion of Flames","Malice Dispersion","Mokey Mokey Smackdown","Necklace of Command","Nightmare Penguin","Sasuke Samurai #4","Serial Spell","Xing Zhen Hu","A-Team: Trap Disposal Unit","Bokoichi the Freightening Car","Creeping Doom Manta","Eagle Eye","Flint","Fox Fire","Fruits of Kozaky's Studies","Harpie Girl","Heavy Mech Support Platform","Lighten the Load","Mighty Guard","Mind Haxorz","Pikeru's Circle of Enchantment","Raging Flame Sprite","Rare Metalmorph","Roc from the Valley of Haze","Spell Purification","Tactical Espionage Expert","Tragedy","Triangle Ecstasy Spark","Ultimate Insect LV3","Woodborg Inpachi"],
+    common: ["A-Team: Trap Disposal Unit","Bokoichi the Freightening Car","Creeping Doom Manta","Eagle Eye","Flint","Fox Fire","Fruits of Kozaky's Studies","Harpie Girl","Heavy Mech Support Platform","Lighten the Load","Mighty Guard","Mind Haxorz","Pikeru's Circle of Enchantment","Raging Flame Sprite","Rare Metalmorph","Roc from the Valley of Haze","Spell Purification","Tactical Espionage Expert","Tragedy","Triangle Ecstasy Spark","Ultimate Insect LV3","Woodborg Inpachi"],
+    uncommon: ["Astral Barrier","Covering Fire","Dekoichi the Battlechanted Locomotive","Element Magician","Element Saurus","Harpie Lady 1","Harpie Lady 2","Harpie Lady 3","Invasion of Flames","Malice Dispersion","Mokey Mokey Smackdown","Necklace of Command","Nightmare Penguin","Sasuke Samurai #4","Serial Spell","Xing Zhen Hu"],
+    rare: ["Back to Square One","Ballista of Rampart Smashing","Chain Burst","Dark Blade the Dragon Knight","Fusilier Dragon, the Dual-Mode Beast","Gaia Soul the Combustible Collective","Harpies' Hunting Ground","Homunculus the Alchemic Being","Mirage Dragon","Mokey Mokey King","Pitch-Black Warwolf","Silent Swordsman LV3","The Creator Incarnate"],
+    epic: ["B.E.S Big Core","Divine Wrath","Fuh-Rin-Ka-Zan","Machine Duplication","Monster Reincarnation","Mystic Swordsman LV6","The Creator","Thestalos the Firestorm Monarch"],
+    price: 100,
+    commonnum: 3,
+    uncommonnum: 2,
+    rarenum: 1,
+    epicnum: 1,
+}

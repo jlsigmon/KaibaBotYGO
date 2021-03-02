@@ -1,0 +1,14 @@
+module.exports = {
+    name: 'elenergy',
+    description: "The test pack",
+    cards: ["Dark World Lightning","Elemental HERO Bladedge","Elemental HERO Shining Flare Wingman","Pot of Avarice","Silva, Warlord of Dark World","VWXYZ-Dragon Catapult Cannon","B.E.S. Tetran","Cyber Blader","Elemental HERO Rampart Blaster","Elemental HERO Tempest","Elemental HERO Wildedge","Goldd, Wu-Lord of Dark World","Hero Barrier","Non-Fusion Area","Rapid-Fire Magician","Scarr, Scout of Dark World","Water Dragon","Armed Changer","Beiige, Vanguard of Dark World","Broww, Huntsman of Dark World","Brron, Mad King of Dark World","Chthonian Soldier","Elemental HERO Wildheart","Familiar-Possessed - Aussa","Familiar-Possessed - Eria","Familiar-Possessed - Hiita","Familiar-Possessed - Wynn","Gateway to Dark World","Hydrogeddon","King's Knight","Oxygeddon","Reborn Zombie","The Forces of Darkness","Blade Skater","Bonding - H2O","Boss Rush","Branch!","Chthonian Alliance","Chthonian Blast","Chthonian Polymer","Dark Deal","Etoile Cyber","Feather Shot","Feather Wind","Infernal Incinerator","Jack's Knight","Level Limit - Area A","Level Modulation","Nanobreaker","Ojamagic","Ojamuscle","Queen's Knight","Roll Out!","Simultaneous Loss","The League of Uniform Nomenclature","V-Tiger Jet","W-Wing Catapult","Weed Out","Zure, Knight of Dark World"],
+    common: ["Blade Skater","Bonding - H2O","Boss Rush","Branch!","Chthonian Alliance","Chthonian Blast","Chthonian Polymer","Dark Deal","Etoile Cyber","Feather Shot","Feather Wind","Infernal Incinerator","Jack's Knight","Level Limit - Area A","Level Modulation","Nanobreaker","Ojamagic","Ojamuscle","Queen's Knight","Roll Out!","Simultaneous Loss","The League of Uniform Nomenclature","V-Tiger Jet","W-Wing Catapult","Weed Out","Zure, Knight of Dark World"],
+    uncommon: ["Armed Changer","Beiige, Vanguard of Dark World","Broww, Huntsman of Dark World","Brron, Mad King of Dark World","Chthonian Soldier","Elemental HERO Wildheart","Familiar-Possessed - Aussa","Familiar-Possessed - Eria","Familiar-Possessed - Hiita","Familiar-Possessed - Wynn","Gateway to Dark World","Hydrogeddon","King's Knight","Oxygeddon","Reborn Zombie","The Forces of Darkness"],
+    rare: ["B.E.S. Tetran","Cyber Blader","Elemental HERO Rampart Blaster","Elemental HERO Tempest","Elemental HERO Wildedge","Goldd, Wu-Lord of Dark World","Hero Barrier","Non-Fusion Area","Rapid-Fire Magician","Scarr, Scout of Dark World","VW-Tiger Catapult","Water Dragon"],
+    epic: ["Dark World Lightning","Elemental HERO Bladedge","Elemental HERO Shining Flare Wingman","Pot of Avarice","Silva, Warlord of Dark World","VWXYZ-Dragon Catapult Cannon"],
+    price: 100,
+    commonnum: 3,
+    uncommonnum: 2,
+    rarenum: 1,
+    epicnum: 1,
+}

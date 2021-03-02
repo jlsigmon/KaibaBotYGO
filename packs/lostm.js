@@ -1,0 +1,14 @@
+module.exports = {
+    name: 'lostm',
+    description: "The test pack",
+    cards: ["Ancient Gear Golem","Brain Control","Elemental HERO Flame Wingman","King of the Skull Servants","Reshef the Dark Being","Ancient Gear Beast","Card of Sanctity","D.D. Survivor","Elemental HERO Thunder Giant","Elemental Mistress Doriado","Hieracosphinx","Master Monk","Megarock Dragon","Ancient Gear Soldier","Auss the Earth Charmer","Batteryman AA","Criosphinx","Doriado's Blessing","Dummy Golem","Eria the Water Charmer","Grave Ohja","Guardian Statue","Hiita the Fire Charmer","Mid Shield Gardna","Millennium Scorpion","Monk Fighter","Rock Bombardment","Royal Surrender","Ultimate Insect LV7","Winged Kuriboh","Wynn the Wind Charmer","Battery Charger","Des Wombat","Double Attack","Elemental HERO Avian","Elemental HERO Burstinatrix","Elemental HERO Clayman","Elemental HERO Sparkman","Final Ritual of Ancients","Gift of the Martyr","Grave Lure","Hero Signal","Impenetrable Formation","Kaminote Blow","Kozky's Self-Destruct Button","Legendary Black Belt","Level Conversion Lab","Lone Wolf","Lost Guardian","Medusa Worm","Mine Golem","Minefield Eruption","Mispolymerization","Moai Interceptor Cannons","Nitro Unit","Pikeru's Second Sight","Shifting Shadows","Spell-Stopping Statue","Token Feastevil","White Ninja"],
+    common: ["Battery Charger","Des Wombat","Double Attack","Elemental HERO Avian","Elemental HERO Burstinatrix","Elemental HERO Clayman","Elemental HERO Sparkman","Final Ritual of Ancients","Gift of the Martyr","Grave Lure","Hero Signal","Impenetrable Formation","Kaminote Blow","Kozky's Self-Destruct Button","Legendary Black Belt","Level Conversion Lab","Lone Wolf","Lost Guardian","Medusa Worm","Mine Golem","Minefield Eruption","Mispolymerization","Moai Interceptor Cannons","Nitro Unit","Pikeru's Second Sight","Shifting Shadows","Spell-Stopping Statue","Token Feastevil","White Ninja"],
+    uncommon: ["Ancient Gear Soldier","Auss the Earth Charmer","Batteryman AA","Criosphinx","Doriado's Blessing","Dummy Golem","Eria the Water Charmer","Grave Ohja","Guardian Statue","Hiita the Fire Charmer","Mid Shield Gardna","Millennium Scorpion","Monk Fighter","Rock Bombardment","Royal Surrender","Ultimate Insect LV7","Winged Kuriboh","Wynn the Wind Charmer"],
+    rare: ["Ancient Gear Beast","Card of Sanctity","D.D. Survivor","Elemental HERO Thunder Giant","Elemental Mistress Doriado","Hieracosphinx","Master Monk","Megarock Dragon"],
+    epic: ["Ancient Gear Golem","Brain Control","Elemental HERO Flame Wingman","King of the Skull Servants","Reshef the Dark Being"],
+    price: 100,
+    commonnum: 3,
+    uncommonnum: 2,
+    rarenum: 1,
+    epicnum: 1,
+}

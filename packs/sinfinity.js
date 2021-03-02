@@ -1,0 +1,14 @@
+module.exports = {
+    name: 'sinfinity',
+    description: "The test pack",
+    cards: ["Demise, King of Armageddon","Hamon, Lord of Striking Thunder","Raviel, Lord of Phantasms","Ruin, Queen of Oblivion","Treeborn Frog","Uria, Lord of Searing Flames","Ancient Gear Castle","Chainsaw Insect","Cyber Barrier Dragon","Cyber Laser Dragon","D.3.S Frog","Divine Dragon - Excelion","End of the World","Karma Cut","Sabre beetle","Tenkabito Shien","Ancient Gear Factory","Anteatereatingant","Attack Reflector Unit","B.E.S Covered Core","Cyclone Boomerang","Doom Dozer","Elemental Hero Neo Bubbleman","Machine King Prototype","Memory Crusher","Phantasmal Martyrs","Photon Generator Unit","Princess Curran","Princess Pikeru","Proto-Cyber Dragon","Samsara","Symbol of Heritage","Adhesive Explosive","Ancient Gear","Ancient Gear Cannon","Ancient Gear Drill","Beelze Frog","Chain Thrasher","D.D. Guide","Damage Condenser","Disciple of the Forbidden Spell","Full Salvo","Generation Shit","Goblin Out of the Frying Pan","Gokipon","Grass Phantom","Hero Heart","Hero Kid","Magnet Circle LV2","Malfunction","Malice Ascendant","Miracle Kids","Next to be Lost","Option Hunter","Parasitic Ticky","Sand Moth","Silent Insect","Success Probability 0%","Super Junior Confrontation","Trial of the Princess"],
+    common: ["Adhesive Explosive","Ancient Gear","Ancient Gear Cannon","Ancient Gear Drill","Beelze Frog","Chain Thrasher","D.D. Guide","Damage Condenser","Disciple of the Forbidden Spell","Full Salvo","Generation Shit","Goblin Out of the Frying Pan","Gokipon","Grass Phantom","Hero Heart","Hero Kid","Magnet Circle LV2","Malfunction","Malice Ascendant","Miracle Kids","Next to be Lost","Option Hunter","Parasitic Ticky","Sand Moth","Silent Insect","Success Probability 0%","Super Junior Confrontation","Trial of the Princess"],
+    uncommon: ["Ancient Gear Factory","Anteatereatingant","Attack Reflector Unit","B.E.S Covered Core","Cyclone Boomerang","Doom Dozer","Elemental Hero Neo Bubbleman","Machine King Prototype","Memory Crusher","Phantasmal Martyrs","Photon Generator Unit","Princess Curran","Princess Pikeru","Proto-Cyber Dragon","Samsara","Symbol of Heritage"],
+    rare: ["Ancient Gear Castle","Chainsaw Insect","Cyber Barrier Dragon","Cyber Laser Dragon","D.3.S Frog","Divine Dragon - Excelion","End of the World","Karma Cut","Sabre beetle","Tenkabito Shien"],
+    epic: ["Demise, King of Armageddon","Hamon, Lord of Striking Thunder","Raviel, Lord of Phantasms","Ruin, Queen of Oblivion","Treeborn Frog","Uria, Lord of Searing Flames"],
+    price: 100,
+    commonnum: 3,
+    uncommonnum: 2,
+    rarenum: 1,
+    epicnum: 1,
+}
