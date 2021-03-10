@@ -40,7 +40,7 @@ module.exports = {
                                     embed.addField('More Info', 'Do ' + PREFIX + 'help (command) for more info!');
                                 break;
                                 case 2:
-                                    embed.addField('Collection Commands', 'points or bal or balance\nticekts\ngive\ngivecard\nbuydeck\nlistcards or collection or trunk or binder\npublist\nbuypack\nconvert\nlct or sort')
+                                    embed.addField('Collection Commands', 'points or bal or balance\nticekts\ngive\ngivecard\nbuydeck\nlistcards or collection or trunk or binder\npublist\nbuypack\nconvert\nlct or sort\nmissing')
                                     embed.addField('More Info', 'Do ' + PREFIX + 'help (command) for more info!');
                                 break;
                                 case 3:
@@ -538,6 +538,13 @@ module.exports = {
                         .addField('lct types', 'legendaryknight, elementalhero, amazoness, archfiend, gravekeepers, darkmagician, redeyes, blueeyes, exodia, agent, ancientgear, cloudian, crystalbeast, cyberdragon, cyberdark, batteryman, harpie, destinyhero, darkscorpion, darkworld, lightsworn, mistvalley, monarch, neospacian, ojama, roid, toon, venom, secret, normal, ultra, rare, uncommon, common, xyz, synchro, union, spirit, flip, tuner, gemini, level12, level11, level10, level9, level8, level7, level6, level5, level4, level3, level2, level1, fire, water, wind, earth, dark, light, ritspell, ritmons, divine, contspell, equipspell, fieldspell, quickspell, normspell, counttrap, normtrap, conttrap, wingedbeast, zombie, fusion, rock, seaserpent, spellcaster, thunder, warrior, plant, psychic, pyro, reptile, machine, aqua, beast, beastwarrior, dinosaur, dragon, fairy, fiend, fish, insect')
                         .addField('lct types 2', 'asanctuary, soulduel, feternity, ichaos, rdestiny, destinedroads, db1, custom3, magicforce, dcrisis, pguardian, newbeginnings, custom, demonstuff, ldarkness, labnight, pservant, legendblue, magicruler, metalraider, custom1');
                     msg.channel.send(embed63);
+                    break;
+                case 'missing':
+                    const embed64 = new Discord.MessageEmbed()
+                        .setTitle('missing')
+                        .addField('Desc', 'Allows you to see what cards you are missing from a particular pack!')
+                        .addField('Usage', PREFIX + 'missing packName');
+                        msg.channel.send(embed64);
                     break;
             }
         }

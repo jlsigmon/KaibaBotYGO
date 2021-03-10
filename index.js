@@ -935,6 +935,9 @@ bot.on('message', msg =>{
                 bot.commands.get('reward').execute(msg, args, con, three, four, five);
             break;
             */
+           case "missing":
+                bot.commands.get('missing').execute(msg, args, con, Discord, bot.packs);
+            break;
         }
     }
 
